@@ -5,6 +5,9 @@
         }
     },
     "require": {
-        "league/route": "~1.0"
+        "league/route": "~1.0",
+        "guzzlehttp/guzzle": "~5.2",
+        "keboola/php-encryption": "0.2.*",
+        "vlucas/phpdotenv": "~1.1"
     }
 }
